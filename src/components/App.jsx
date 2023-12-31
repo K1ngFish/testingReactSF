@@ -1,10 +1,14 @@
 import React, {Component} from "react";
 import "../styles/App.css";
 
+import Header from "./Header.jsx";
+import Main from "./Main.jsx";
+
 function App () {
     return (
         <div>
-            <h1>Hello from Denis!</h1>
+            <Header/>
+            <Main/>
         </div>
     )
 }

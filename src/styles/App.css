@@ -4,5 +4,8 @@ div {
 
 h1 {
     text-align: center;
-    color: #0089e7;
+}
+
+body {
+    background-color: #f1f1f1;
 }
