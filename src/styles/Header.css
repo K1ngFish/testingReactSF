@@ -1,9 +1,12 @@
 header {
     color: white;
     background-color: #0085e1;
-    font-size: 2rem;
+    font-size: 1.5rem;
     height: 80px;
     display: flex;
     justify-content: center;
     align-items: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
 }
+
