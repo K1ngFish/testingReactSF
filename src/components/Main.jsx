@@ -6,7 +6,6 @@ import Weather from "./Weather.jsx";
 function Main() {
     return (
         <main>
-            <h2>Main section</h2>
             <Weather/>
         </main>
 
